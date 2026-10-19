@@ -18,7 +18,7 @@ The server listens for incoming connections on port `2000`, accepts clients, ass
 
 ```text
 java-socket/
-├── Serveur2.java    # TCP server
+├── Server.java    # TCP server
 ├── Client.java      # TCP client
 └── README.md        # Project documentation
 ```
