@@ -4,7 +4,7 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Serveur2 {
+public class Server {
 
     public static void main(String[] args) {
         final int port = 2000;
