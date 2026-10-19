@@ -46,10 +46,10 @@ cd java-socket
 
 ### 2. Compile the Java files
 
-Make sure `Serveur2.java` and `Client.java` are in the same directory.
+Make sure `Server.java` and `Client.java` are in the same directory.
 
 ```bash
-javac Serveur2.java Client.java
+javac Server.java Client.java
 ```
 
 ### 3. Start the server
@@ -57,7 +57,7 @@ javac Serveur2.java Client.java
 Open a terminal and run:
 
 ```bash
-java Serveur2
+java Server
 ```
 
 The server will start listening on port `2000`.
